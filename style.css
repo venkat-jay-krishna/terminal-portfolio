@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: blanchedalmond;
+    font-family:monospace;
+    font-size: large;
+}
+.symbols{
+    color:lightgoldenrodyellow;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+#input{
+    
+    background-color: black;
+    border: none;
+    border-width: none;
+    outline: none;
+    color:white;
+    font-family: monospace;
+    caret-color: beige;
+}
+.cmdline{
+    padding: 0%;
+}
+.terminal-out{
+    margin-left: 5%;
+}
+.commands{
+    color:cyan;
+}
+.output{
+    margin-left: 16px;
+}
+#banner{
+    color:lime;
+}
+.error{
+    color:red;
+}
