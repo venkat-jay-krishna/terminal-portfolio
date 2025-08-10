@@ -9,9 +9,12 @@ body{
     padding-left: 0%;
     margin-left: 0%;
 }
+.cmdline{
+    display: flex;
+}
 #input{
     
-    background-color: black;
+    background-color: transparent;
     border: none;
     border-width: none;
     outline: none;
