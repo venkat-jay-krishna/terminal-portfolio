@@ -12,8 +12,7 @@ body{
 .cmdline{
     display: flex;
 }
-#input{
-    
+#input{ 
     background-color: transparent;
     border: none;
     border-width: none;
