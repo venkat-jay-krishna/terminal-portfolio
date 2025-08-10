@@ -93,7 +93,7 @@ document.addEventListener('keydown', (e) => {
         break;
       case 'projects':
         terminal.innerHTML += `<div>wait a min getting projects....</div>`;
-        window.open('https://youtu.be/MxrktEnlsh0?si=j_idXvE4A3cOV2fr','_blank')
+        window.open('https://youtube.com/watch?v=MxrktEnlsh0&autoplay=1','_blank')
         break;
       case 'clear':
         terminal.innerHTML = ``;
