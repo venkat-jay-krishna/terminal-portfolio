@@ -2,7 +2,6 @@ body{
     background-color: black;
     color: blanchedalmond;
     font-family:monospace;
-    font-size: large;
 }
 .symbols{
     color:lightgoldenrodyellow;
@@ -12,7 +11,8 @@ body{
 .cmdline{
     display: flex;
 }
-#input{ 
+#input{
+    
     background-color: transparent;
     border: none;
     border-width: none;
